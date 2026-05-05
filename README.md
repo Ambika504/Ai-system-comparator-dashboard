@@ -57,7 +57,6 @@ python -m streamlit run app.py
 
 ## 📸 Screenshots
 
-(Add screenshots here after running the app)
 
 ---
 
